@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=primeFactor
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.util.ArrayList\ prime(long)
+comment3.params=primeN\ n
+comment3.target=int\ primeFactor(java.util.ArrayList,\ long)
+numComments=4
